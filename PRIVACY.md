@@ -1,4 +1,6 @@
-# Privacy Policy for Your Discord Bot
+# Privacy Policy
+
+--- Nitewindz Discord Bot ---
 
 **Last updated: 2025-08-05**
 
@@ -47,4 +49,4 @@ This Privacy Policy may be updated from time to time. Continued use of the Bot a
 ---
 
 **Contact:**  
-For questions or concerns about this policy, contact the developer via Discord: `nitewind#xxxx` or GitHub/email.
+For questions or concerns about this policy, contact the developer via Discord: `nitewinds.` or email: 'nitewindwaz@gmail.com'.
