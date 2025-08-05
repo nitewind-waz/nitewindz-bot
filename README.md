@@ -1,5 +1,5 @@
 ## Nitewindz Discord Bot
 ## Legal
-- [Terms of Service](./docs/TERMS.md)
-- [Privacy Policy](./docs/PRIVACY.md)
+- [Terms of Service](./TERMS.md)
+- [Privacy Policy](./PRIVACY.md)
 
