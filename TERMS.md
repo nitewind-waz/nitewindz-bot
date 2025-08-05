@@ -1,5 +1,6 @@
-# Terms of Service for Your Discord Bot
+# Terms of Service
 
+-- Nitewindz Discord Bot ---
 **Last updated: 2025-08-05**
 
 ## 1. Acceptance of Terms
@@ -38,4 +39,4 @@ We may update these Terms of Service at any time. It is your responsibility to r
 ---
 
 **Contact:**  
-For any questions, concerns, or data removal requests, contact the developer via Discord: `nitewind#xxxx` or via GitHub/email.
+For any questions, concerns, or data removal requests, contact the developer via Discord: `nitewinds.` or via email: 'nitewindwaz@gmail.com'
